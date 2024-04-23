@@ -12,19 +12,20 @@ Caricamento e trasformazione del file "omicidi.csv", assicurandomi che i dati fo
 Recupero dei dati da vari file Excel: "capitali.xlsx", "abbr.xlsx" e "popolazione.xlsx", utilizzando Power Query per trasformarli e renderli compatibili per le analisi.
 Creazione del Report in Power BI:
 
-1)Visual Tabella: Creata utilizzando i dati di Stato dalla tabella "BEST STATES TO RETIRE", abbreviazioni di stato da "Abbr", popolazione da "Popolazione" e capitali da "Capitali". Ho rinominato la pagina come "USA".
+1)Visual Tabella: 
+Creata utilizzando i dati di Stato dalla tabella "BEST STATES TO RETIRE", abbreviazioni di stato da "Abbr", popolazione da "Popolazione" e capitali da "Capitali". Ho rinominato la pagina come "USA".
 
-2)Esportazione dei dati: Esportati in formato csv in un file denominato "ESPORTATI".
+2)Esportazione dei dati:
+Esportati in formato csv in un file denominato "ESPORTATI".
 
 3)Visual Grafico a Barre in Pile:
-
 Mostrando gli omicidi per stato con un ordinamento crescente per numero di omicidi. La barra rappresentante New York è stata evidenziata in un colore diverso e le etichette sono state visualizzate per ogni barra. Ho eliminato il titolo e calcolato il totale e la media di popolazione e numero di omicidi.
 Calcolo della percentuale di omicidi per stato.
 
-4)Impostazioni del visual: Aggiunta di un'immagine come sfondo con una trasparenza dell'85%.
+4)Impostazioni del visual:
+Aggiunta di un'immagine come sfondo con una trasparenza dell'85%.
 
 5)Visual Filtro:
-
 Creato per Stato e Capitali.
 
 6)Ulteriori Visualizzazioni e Pagine:
