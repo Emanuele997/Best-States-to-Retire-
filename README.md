@@ -17,15 +17,18 @@ Creazione del Report in Power BI:
 2)Esportazione dei dati: Esportati in formato csv in un file denominato "ESPORTATI".
 
 3)Visual Grafico a Barre in Pile:
+
 Mostrando gli omicidi per stato con un ordinamento crescente per numero di omicidi. La barra rappresentante New York è stata evidenziata in un colore diverso e le etichette sono state visualizzate per ogni barra. Ho eliminato il titolo e calcolato il totale e la media di popolazione e numero di omicidi.
 Calcolo della percentuale di omicidi per stato.
 
 4)Impostazioni del visual: Aggiunta di un'immagine come sfondo con una trasparenza dell'85%.
 
 5)Visual Filtro:
+
 Creato per Stato e Capitali.
 
 6)Ulteriori Visualizzazioni e Pagine:
+
 Pagina "STATISTICHE": Incluso un visual a imbuto per mostrare la popolazione per stato.
 Pagina "ALBERO": Creata una mappa ad albero per visualizzare i valori totali della popolazione e numero di omicidi per ogni stato, con abbreviazioni mostrate nella descrizione del comando.
 Creazione di altre due pagine con almeno 6 visual differenti, inclusa una mappa, per esplorare ulteriori dimensioni dei dati.
